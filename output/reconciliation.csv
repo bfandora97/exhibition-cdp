@@ -1,0 +1,6 @@
+edition_id,reg_raw_rows,reg_clean_unique,reg_reported,visitors_raw_distinct_ids,visitors_clean_unique,visitors_reported,reg_diff_raw,reg_diff_clean,vis_diff_raw,vis_diff_clean
+NFE2024,2582,2458,2456,1930,1783,1795,126,2,135,-12
+NFE2025,2572,2415,2415,1863,1755,1762,157,0,101,-7
+NFE2026,2525,2384,2381,1826,1702,1714,144,3,112,-12
+PPI2025,2657,2514,2514,1974,1829,1847,143,0,127,-18
+PPI2026,2598,2447,2445,1955,1813,1827,153,2,128,-14

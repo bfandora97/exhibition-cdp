@@ -1,0 +1,9 @@
+dimension,metric,before,after
+Completeness,Usable email rate,0.8619916499149528,0.9783106891471599
+Completeness,Company name filled,0.9826813050873666,0.9950073661810444
+Validity,Phone in standard +62 format,0.2336477501159734,0.9788836143394991
+Uniqueness,Non-duplicate registrations,0.944642028761404,1.0
+Uniqueness,Non-duplicate badge scans,0.9244055221066715,1.0
+Consistency,Company name in canonical form,0.7944138473642801,1.0
+Integrity,Scans linked to a registration,0.957063796144256,0.9869245271544123
+Integrity,Campaign events linked to a person,0.8219725531594028,0.9809480721861962

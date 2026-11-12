@@ -1,0 +1,17 @@
+[
+  {"name": "event_id", "type": "STRING"},
+  {"name": "event_name", "type": "STRING"},
+  {"name": "event_timestamp", "type": "TIMESTAMP"},
+  {"name": "channel", "type": "STRING"},
+  {"name": "edition_id", "type": "STRING"},
+  {"name": "user_properties", "type": "RECORD", "fields": [
+    {"name": "email", "type": "STRING"},
+    {"name": "phone", "type": "STRING"}
+  ]},
+  {"name": "event_params", "type": "RECORD", "fields": [
+    {"name": "campaign_id", "type": "STRING"},
+    {"name": "utm_source", "type": "STRING"},
+    {"name": "utm_medium", "type": "STRING"},
+    {"name": "link_url", "type": "STRING"}
+  ]}
+]
