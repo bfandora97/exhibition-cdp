@@ -3,3 +3,5 @@ data/clean/
 data/ground_truth/
 __pycache__/
 *.pyc
+HANDOFF.md
+desktop.ini
